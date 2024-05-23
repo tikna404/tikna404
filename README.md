@@ -9,11 +9,12 @@
 
 - 🔭 I’m currently working on **Banking System**
 
-- 🌱 I’m currently learning **React Node.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **frontend**
 
 - 📫 How to reach me **ankitp2104@gmail.com**
+-  ⚡ Fun fact **01010010 01101111 01100011 01101011 01101001 01101110 01100111 00100000 01000100 01100101 01110110 01100101 01101100 01101111 01110000 01100101 01110010**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
