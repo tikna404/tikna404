@@ -18,6 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://twitter.com/https://x.com/noobtikna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/noobtikna" height="30" width="40" /></a>
 <a href="https://fb.com/ankit pal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankit pal" height="30" width="40" /></a>
 <a href="https://instagram.com/ankiiii____t" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankiiii____t" height="30" width="40" /></a>
 </p>
