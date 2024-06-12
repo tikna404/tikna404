@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Banking System**
+- 🔭 I’m currently working on **Railway System**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Angular.js**
 
-- 💬 Ask me about **frontend**
+- 💬 Ask me about **FrontEnd**
 
 - 📫 How to reach me **ankitp2104@gmail.com**
 -  ⚡ Fun fact **01010010 01101111 01100011 01101011 01101001 01101110 01100111 00100000 01000100 01100101 01110110 01100101 01101100 01101111 01110000 01100101 01110010**
